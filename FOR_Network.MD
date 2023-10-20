@@ -3,6 +3,8 @@
 - https://ctfacademy.github.io/network/challenge2/answer.htm
 
 ### tshark
+- TShark TryHackMe Writeup
+  - https://overide.medium.com/tshark-tryhackme-writeup-5ddf121c133e
 - https://ctf-wiki.org/misc/traffic/data/
 - tshark(1) Manual Page
   - https://www.wireshark.org/docs/man-pages/tshark.html
