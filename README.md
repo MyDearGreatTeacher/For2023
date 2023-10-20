@@ -1,11 +1,27 @@
 # For2023
+- awesome-memory-forensics
+  - https://github.com/beyefendi/awesome-memory-forensics 
 
 ## 測試資料集:NIST
-## 測試資料集:CTF
-## 測試資料集:
-- Ali Hadi Digital Forensic Challenge Images (Datasets)
+## 測試資料集:2019 Unofficial Defcon DFIR CTF
+- https://www.dropbox.com/sh/4qfk1miauqbvqst/AAAVCI1G8Sc8xMoqK_TtmSbia?dl=0
+- On August 9th David Cowen (HECFBlog) announced the 2019 Unofficial Defcon DFIR CTF was going live which had been provided by the Champlain College’s Digital Forensic Association. The Unofficial Defcon DFIR CTF comprised of 5 different challenge categories with a total of 82 DFIR related challenges including a Crypto Challenge, Deadbox Forensics, Linux Forensics, Memory Forensics, and a Live VM to Triage.
+- 全部解完 https://www.jaiminton.com/Defcon/DFIR-2019/#
+  - Category 1: DFA Crypto Challenge ==> a cryptography challenge 破密分析
+  - Category 2: Deadbox Forensics  ==> WINDOWS FORENSICS
+    - FTK Imager +  Autopsy
+  - Category 3: Linux Forensics   == > imega: Kali linux ==> 使用FTK imager 分析 
+  - Category 4: Memory Forensics  == > Triage-Memory
+  - Category 5: Triage VM Questions
+- https://medium.com/@ozan.unal/defcon-dfir-ctf-2019-writeup-38f168eda56b
+- https://blog.1234n6.com/2019/08/2019-unofficial-defcon-dfir-ctf-writeups.html
+- Triage-Memory.mem(WINDOWS 7) 解答 https://www.petermstewart.net/defcon-2019-dfir-ctf-memory-forensics-write-up/
+## 測試資料集:Challenges & CTFs
+- https://aboutdfir.com/education/challenges-ctfs/
+## 測試資料集: Ali Hadi Digital Forensic Challenge Images (Datasets)
   - https://www.ashemery.com/dfir.html
   - Challenge #1:Web Server Case
+    - https://archive.org/download/dfir-case1
   - Challenge #2:User Policy Violation Case
   - Challenge #3:Mystery Hacked System
   - Challenge #4:Launching Attacks from Alternate Data Streams
@@ -16,13 +32,17 @@
   - Challenge #9:Encrypt Them All Case
   - Challenge #10:Meeting Location Case
   - Memory Forensics #01:RansomCare Investigation Case 1
-  - Linux Forensic
+  - Linux Forensic  https://linuxdfir.ashemery.com/Workshops/
     - These are four different cases to cover Linux forensic investigations and a brief could be found below:
     - Case1: Compromised Web Server
     - Case2: Compromised Hadoop (HDFS) Cluster
     - Case3: Attacker's Kali Linux System
-    - Case4: Investigating/Hunting Hidden Processes 
-
+    - Case4: Investigating/Hunting Hidden Processes
+  - Linux Forensics Workshop @ DFRWS USA 2023
+    - https://linuxdfir.ashemery.com/Workshops/DFRWS_USA_2023/
+    - https://github.com/ashemery/LinuxForensics/tree/master/Workshops/DFRWS_USA_2023 
+## 測試資料集: MemLabs
+- https://github.com/stuxnet999/MemLabs
 ## 測試資料集: Wireshark 官方
 
 ## 測試資料集: Wireshark 官方
