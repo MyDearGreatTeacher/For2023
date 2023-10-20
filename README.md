@@ -15,6 +15,7 @@
   - Category 5: Triage VM Questions
 - https://medium.com/@ozan.unal/defcon-dfir-ctf-2019-writeup-38f168eda56b
 - https://blog.1234n6.com/2019/08/2019-unofficial-defcon-dfir-ctf-writeups.html
+- https://www.senturean.com/posts/19_09_17_defcon_dfir_ctf/
 - Triage-Memory.mem(WINDOWS 7) 解答 https://www.petermstewart.net/defcon-2019-dfir-ctf-memory-forensics-write-up/
 ## 測試資料集:Challenges & CTFs
 - https://aboutdfir.com/education/challenges-ctfs/
