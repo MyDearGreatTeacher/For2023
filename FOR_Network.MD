@@ -1,4 +1,6 @@
 
+### Challenge 2 Haystack
+- https://ctfacademy.github.io/network/challenge2/answer.htm
 
 ### tshark
 - https://ctf-wiki.org/misc/traffic/data/
