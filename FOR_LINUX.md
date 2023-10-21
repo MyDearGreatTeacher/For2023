@@ -1,5 +1,10 @@
 ## 
 - https://linuxdfir.ashemery.com/Workshops/DFRWS_USA_2023/
+- https://github.com/ashemery/LinuxForensics
+- https://linuxdfir.ashemery.com/Workshops/
+- https://github.com/ashemery/LinuxForensics/tree/master/Workshops/DFRWS_USA_2023
+- Installing SIFT Workstation
+  - https://westoahu.hawaii.edu/cyber/forensics-weekly-executive-summmaries/installing-sift-workstation/
 
 
 ## Mini Linux Forensics — MUS22
