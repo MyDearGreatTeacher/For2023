@@ -19,6 +19,7 @@
 - https://github.com/Velocidex/velociraptor/
 - https://docs.velociraptor.app/docs/overview/
 - https://docs.velociraptor.app/docs/deployment/clients/
+- https://www.youtube.com/watch?v=M7bMfdmWR7A
 ## dd for windows
 ``
 - 
