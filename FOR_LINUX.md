@@ -1,4 +1,5 @@
-##
+## 
+- https://linuxdfir.ashemery.com/Workshops/DFRWS_USA_2023/
 
 
 ## Mini Linux Forensics — MUS22
