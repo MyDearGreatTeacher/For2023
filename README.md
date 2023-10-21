@@ -23,6 +23,7 @@
 ## 測試資料集: idekCTF
 - https://ctftime.org/ctf/700/
 - https://ctftime.org/ctf/700/
+- https://hackmd.io/@crazyman/ryDLmrzoi
 ## 測試資料集: Ali Hadi Digital Forensic Challenge Images (Datasets)
   - https://www.ashemery.com/dfir.html
   - Challenge #1:Web Server Case
