@@ -20,6 +20,9 @@
 - Triage-Memory.mem(WINDOWS 7) 解答 https://www.petermstewart.net/defcon-2019-dfir-ctf-memory-forensics-write-up/
 ## 測試資料集:Challenges & CTFs
 - https://aboutdfir.com/education/challenges-ctfs/
+## 測試資料集: idekCTF
+- https://ctftime.org/ctf/700/
+- https://ctftime.org/ctf/700/
 ## 測試資料集: Ali Hadi Digital Forensic Challenge Images (Datasets)
   - https://www.ashemery.com/dfir.html
   - Challenge #1:Web Server Case
