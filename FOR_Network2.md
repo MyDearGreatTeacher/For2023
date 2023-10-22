@@ -51,7 +51,7 @@
 - 將 NetFlow 與其他資料來源融合
 - 案例探討:
 
-## Combatting Tunneling and Encryption ch7
+## CH7.Combatting Tunneling and Encryption 
 - Decrypting TLS using browsers
 - Decoding a malicious DNS tunnel
   - 樣本: https://github.com/ctfhacker/ctf-writeups/blob/master/holidayhack-2015/part1/gnome.pcap 
@@ -62,7 +62,7 @@
 - https://github.com/nipunjaswal/networkforensics/tree/master/Ch5
 - 案例探討: 
 
-## 網路流量中的惡意程式  Investigating Good, Known, and Ugly Malware
+#### 網路流量中的惡意程式  Investigating Good, Known, and Ugly Malware
 - Hidden Tear Decryptor (https://github.com/goliate/hidden-tear)
 - PyLocky Decryptor (https://github.com/Cisco-Talos/pylocky_decryptor)
 - 案例探討 1: Lokibot
@@ -72,8 +72,8 @@
 - 案例探討 3: a banking Trojan on the network   Emotet
   - https://www.fortinet.com/blog/threat-research/analysis-of-a-fresh-variant-of-the-emotet-malware
   - https://www.malware-traffic-analysis.net/training-exercises.html
-- 案例探討 4:
-- 案例探討 1: Lokibot
+- 案例探討 4: hidden tear ransomware
+#### 案例探討 1: Lokibot ransomware
   - 樣本:https://github.com/R3MRUM/loki-parse/tree/master  ==> loki-bot_network_traffic.pcap
   - https://www.ithome.com.tw/news/151655
   - https://www.ithome.com.tw/tags/lockbit-30
@@ -98,9 +98,26 @@
   - Top 11 Malware Strains of 2021 — And How to Stop Them
     -  https://blogs.blackberry.com/en/2022/08/top-11-malware-strains-of-2021-and-how-to-stop-them
 
-- 案例探討 2: PyLocky ransomware
-- 案例探討 3:
-- 案例探討 4:
+#### 案例探討 2: PyLocky ransomware
+#### 案例探討 3: 調查網路流量中的 Emotet 銀行木馬
+- NetworkMiner 中開啟 PCAP 並檢查「主機」選項卡
+- 從“文件”選項卡中查看文件，我們可以看到在捕獲中找到了一個文檔和一個可執行檔
+- 使用公開網站進行惡意程式分析
+- 開啟Wireshark看看文件是否被執行
+- 將 PCAP檔案上傳到https://packettotal.com/來調查 SSL 證書
+- https://www.fortinet.com/blog/threat-research/analysis-of-a-fresh-variant-of-the-emotet-malware
+
+#### 案例探討 4: hidden tear ransomware
+- Use Wireshark to Decrypt Encoded Files by Ransomware
+- 有關查找勒索軟體金鑰的更多信息，請參閱https://sensorstechforum.com/use-wireshark-decrypt-ransomware-files/
+- https://sensorstechforum.com/use-wireshark-decrypt-ransomware-files/
+- 行為模式和分析
+  - 使用公開網站分析 ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa
+    - https://www.virustotal.com/gui/home/upload
+      - https://www.virustotal.com/gui/file/ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa 
+    - https://www.hybrid-analysis.com/
+    - https://viruscheck.tw/
+
 ##
 -
 - 案例探討:
