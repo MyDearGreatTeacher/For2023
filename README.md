@@ -3,8 +3,12 @@
   - https://github.com/beyefendi/awesome-memory-forensics
 - forensics-samples
   - https://github.com/eribertomota/forensics-samples
-- NETRESEC| Publicly available PCAP files
-  - https://www.netresec.com/?page=PcapFiles 
+## NETRESEC| Publicly available PCAP files
+- https://www.netresec.com/?page=PcapFiles
+- CERT-SE(瑞典國家CERT)
+  - CERT-SE 關於目前資料外洩案件的技術建議 (B 8322-16)
+  - PCAP file with PowerShell Empire (TCP 8081) and SSL wrapped C2 (TCP 445) traffic from CERT.SE's technical writeup of the major fraud and hacking criminal case "B 8322-16".
+https://drive.google.com/open?id=0B7pTM0QU5apSdnF0Znp1Tko0ams 
 
 ## 測試資料集:NIST
 ## 測試資料集:2019 Unofficial Defcon DFIR CTF
