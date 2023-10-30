@@ -23,6 +23,11 @@
     - 此案例的目的是向學員展示加密的虛擬私人網路 (VPN) 連線讓網路取證工作變得更加困難。
     - 學員將了解 VPN 連線受損的危險並將了解到如何使用圖形工具或命令列工具對不同的日誌檔案進行分析。
   - 測試環境: Caine_ENISA__INF _5.3.ova
+    - 此測試環境
+a. routerairport_20180726_enp0s8.pcap
+b. routeritsaeu_20180726_enp0s8.pcap
+c. openvpn.log (VPN server of the Airport)
+d. access_log (Webserver AirPortSys1 Airport)
 
 ### 網路日誌分析
 
