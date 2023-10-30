@@ -20,30 +20,9 @@
   - 鑑識情境
     - 越來越多的公司將 IT 環境外包。基於成本考量、可用性或專業知識。整個 IT 環境可以外包，也可以只外包一部分。應用程式可以完全外包，而維護和託管則由第三方完成。或者，例如，在業務關鍵型應用程式中，應用程式由公司本身託管，而只有應用程式的維護由第三方完成。在IT環境仍然在公司自己所在地，僅外包應用程式的維護的情況下，需要第三方從外部存取。
     - 為此使用 VPN 連線（虛擬私人網路）。透過使用此VPN連接，維護方可以存取需要管理的應用程式。就 IT 安全而言，這並非沒有風險。這種結構的一個問題可能是外部管理員電腦的安全等級。外部管理員可以存取公司資料中心中的應用程式和伺服器。來自外部管理員的受感染電腦可能會對公司的應用程式和伺服器造成損害。
+    - 此案例的目的是向學員展示加密的虛擬私人網路 (VPN) 連線讓網路取證工作變得更加困難。
+    - 學員將了解 VPN 連線受損的危險並將了解到如何使用圖形工具或命令列工具對不同的日誌檔案進行分析。
   - 測試環境: Caine_ENISA__INF _5.3.ova
-
-
-A growing number of companies outsource their IT environment. Based on cost considerations, availability
-or expertise. The entire IT environment can be outsourced or only a part. An application can be outsourced
-completely whereas maintenance and hosting being done by a third party. Or, for example, in businesscritical applications, the application is hosted by the company itself, whereas only the maintenance of the
-application is done by a third party.
-In the situation that the IT environment remains at the company's own location, and only the maintenance
-of an application is outsourced, the third party needs access from outside. A VPN connection (Virtual Private
-Network) is used for this. By using this VPN connection, the maintenance party can access the applications
-that need to be managed.
-In terms of IT security this is not without risk. One problem with this construction may be the security level
-of the external administrator's computer. The external administrators have access to the applications and
-servers in the company's datacenter. An infected computer from the external administrator can cause
-damage to the company's applications and servers.
-
-The purpose of this exercise is to show the students
-that encrypted Virtual Private Network (VPN)
-connections make the work of network forensics
-more difficult. The students will learn the danger of
-compromised VPN connections. The students will
-learn that research can be done on different log files
-with graphical tools or with command-line
-programs.
 
 ### 網路日誌分析
 
