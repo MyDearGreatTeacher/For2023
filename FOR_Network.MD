@@ -36,6 +36,14 @@ of the external administrator's computer. The external administrators have acces
 servers in the company's datacenter. An infected computer from the external administrator can cause
 damage to the company's applications and servers.
 
+The purpose of this exercise is to show the students
+that encrypted Virtual Private Network (VPN)
+connections make the work of network forensics
+more difficult. The students will learn the danger of
+compromised VPN connections. The students will
+learn that research can be done on different log files
+with graphical tools or with command-line
+programs.
 
 ### 網路日誌分析
 
