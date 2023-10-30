@@ -2,18 +2,12 @@
 - https://www.enisa.europa.eu/topics/training-and-exercises/trainings-for-cybersecurity-specialists/online-training-material/documents/introduction-to-network-forensics-handbook.pdf
 
 - 三個案例分析
-- 案例1:
+- 案例1:能源領域 ICS/SCADA 攻擊流量分析
+  - 此案例將處理對能源領域 ICS/SCADA 攻擊流量分析
+  - 此案例將教導學生如何設定和配置網路安全監控環境，包括常規（非惡意）流量的基線(the baselining of regular (non-malicious) traffic)，最後成功分析網路上的多階段攻擊。
+  - 在練習過程中，學生將必須處理以前未見過的網路架構，並熟悉用於控制工業環境的未知協議
 - 案例2:
 - 案例3:
-
-
-This use case will deal with an attack on an ICS/SCADA environment in the energy sector. The successful
-completion of this scenario will teach the students how to set up and configure a network security
-monitoring environment, including the baselining of regular (non-malicious) traffic and finally, the successful
-analysis of a multi-stage attack on the network. During the exercise, the students will have to deal with a
-previously unseen network architecture and to familiarise themselves with an unknown protocol used to
-control the industrial environment
-
 ### Wireshark:SampleCaptures
 - https://wiki.wireshark.org/SampleCaptures
 ### Challenge 2 Haystack
