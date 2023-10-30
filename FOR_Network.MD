@@ -5,6 +5,15 @@
 - 案例1:
 - 案例2:
 - 案例3:
+
+
+This use case will deal with an attack on an ICS/SCADA environment in the energy sector. The successful
+completion of this scenario will teach the students how to set up and configure a network security
+monitoring environment, including the baselining of regular (non-malicious) traffic and finally, the successful
+analysis of a multi-stage attack on the network. During the exercise, the students will have to deal with a
+previously unseen network architecture and to familiarise themselves with an unknown protocol used to
+control the industrial environment
+
 ### Wireshark:SampleCaptures
 - https://wiki.wireshark.org/SampleCaptures
 ### Challenge 2 Haystack
